@@ -4,7 +4,7 @@ pipeline {
         stage('build') {
             steps {
                 echo 'Welcome to TechPro Education IT Bootcamp!'
-                sh 'echo Integrating Jenkins Pipeline with GitHub Webhook using Jenkinsfile'
+                sh 'echo Integrating Jenkins Pipeline with GitHub Webhook using Jenkinsfile sümeyye degisiklik yapti'
             }
         }
     }
